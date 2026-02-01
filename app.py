@@ -79,7 +79,7 @@ import tempfile
 import unicodedata
 import requests
 
-#import streamlit as st 
+import streamlit as st 
 
 # LangChain (PDF loading, chunking, embeddings, FAISS)
 from langchain_community.document_loaders import PyPDFLoader
